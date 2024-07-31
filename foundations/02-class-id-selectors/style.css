@@ -1,0 +1,22 @@
+.fontfam1 {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+
+.background {
+background-color: plum;
+}
+
+.number3 {
+    font-size: 22px;
+}
+
+#number4 {
+background-color: greenyellow;
+font-weight: 700;
+font-size: 24px;
+}
