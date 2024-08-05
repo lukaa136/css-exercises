@@ -1,3 +1,9 @@
+.title {
+  background: #e3f4ff;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
 body {
   background: #eee;
   font-family: sans-serif;
@@ -7,21 +13,32 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
-}
-
-.title {
-  background: #e3f4ff;
+  padding: 10px;
 }
 
 .content {
   background: #e3f4ff;
-}
-
-.button-container {
-  background: #e3f4ff;
+  padding: 11px;
+  padding-bottom: 15px;
+  padding-top: 15px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin-left: -40px;
+  padding-bottom: 9px;
+  padding-top: 9px;
+  padding-right: 23px;
+  padding-left: 23px;
+}
+
+.button-container {
+  background: #e3f4ff;
+  padding-left: 160px;
+  display: block;
+  margin: 10px;
+  width: 240px;
+  margin-left: -1px;
 }
